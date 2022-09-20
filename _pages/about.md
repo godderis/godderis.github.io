@@ -6,7 +6,7 @@ description: <a href="#">CNRS Research Director</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: M42_40im_canon.jpg
   address: >
     <p>CEREGE</p>
     <p>Technopole Arbois</p>
