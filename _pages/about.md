@@ -6,7 +6,7 @@ description: <a href="#">CNRS Research Director</a>
 
 profile:
   align: right
-  image: M42_40im_canon.jpg
+  image: pic_yves.jpg
   address: >
     <p>GET Geosciences Environnement Toulouse</p>
     <p>Observatoire Midi-Pyrénées</p>
