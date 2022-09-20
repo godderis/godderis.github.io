@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">CNRS Research Director</a>
+
+subtitle: <a href='#'>Affiliations</a>. Geosciences Environnement Toulouse.
 
 profile:
   align: right
