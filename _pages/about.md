@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">CNRS Research Director</a>
+description: CNRS Research Director
 
 profile:
   align: right
